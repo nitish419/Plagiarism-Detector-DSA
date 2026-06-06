@@ -1,0 +1,1 @@
+Data structures and algorithms are fundamental to computer science. They allow developers to write highly efficient code. The Knuth-Morris-Pratt algorithm is a string matching algorithm that runs in linear time. It avoids unnecessary comparisons by using an LPS array.

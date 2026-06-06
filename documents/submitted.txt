@@ -1,0 +1,1 @@
+I am learning about programming. Data structures and algorithms are fundamental to computer science. I also learned that the Knuth-Morris-Pratt algorithm is a string matching algorithm that runs in linear time. This is my own original work.
